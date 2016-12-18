@@ -28,7 +28,7 @@
   "license": "MIT",
   "preferGlobal": true,
   "bin": {
-    "unsplash": "./lib/index.js"
+    "unsplash": "./lib/cli.js"
   }
 
 }
