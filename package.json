@@ -1,6 +1,6 @@
 {
   "name": "unsplash-source",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Set an image from Unsplash-Source as your wallpaper.",
   "main": "./lib/index.js",
   "dependencies": {
@@ -30,5 +30,4 @@
   "bin": {
     "unsplash": "./lib/cli.js"
   }
-
 }
